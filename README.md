@@ -13,10 +13,13 @@ Tableau Projects
 
 In this section, you'll find links to my Tableau projects:
 
-[Project 1 Title](link to project)
-Brief description of project 1
+[Project 1 Title](link to project)  
+
+Brief description of project 1  
+
 [Project 2 Title](link to project)
-Brief description of project 2
+Brief description of project 2  
+
 [Project 3 Title](link to project)
 Brief description of project 3
 R-Studio Projects
@@ -43,7 +46,7 @@ Contact Me
 
 If you're interested in working with me or learning more about my skills and experience, please feel free to contact me:
 
-Email: skochko.work@gmail.com
-[LinkedIn](  https://www.linkedin.com/in/yelyzaveta-skochko/)
+Email: skochko.work@gmail.com  
+[LinkedIn](  https://www.linkedin.com/in/yelyzaveta-skochko/)  
 
 Thank you for visiting my data analyst portfolio! I hope you find my projects and visualizations interesting and informative.
