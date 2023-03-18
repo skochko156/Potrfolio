@@ -43,5 +43,6 @@ Contact Me
 If you're interested in working with me or learning more about my skills and experience, please feel free to contact me:
 
 Email: skochko.work@gmail.com
-LinkedIn:  https://www.linkedin.com/in/yelyzaveta-skochko/
+[LinkedIn](  https://www.linkedin.com/in/yelyzaveta-skochko/)
+
 Thank you for visiting my data analyst portfolio! I hope you find my projects and visualizations interesting and informative.
