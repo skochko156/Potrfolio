@@ -13,11 +13,11 @@ Tableau Projects
 
 In this section, you'll find links to my Tableau projects:
 
-[Project 1 Title](link to project)  
+[Netflix Movies & TV Shows]([link to project](https://public.tableau.com/app/profile/yelyzaveta4547/viz/Netflix_Analysis_16791747171680/Netflix))  
 
 Brief description of project 1  
 
-[Project 2 Title](link to project)
+[Games Sales]([link to project](https://public.tableau.com/app/profile/yelyzaveta4547/viz/Games_16791742307990/Game_Sales))
 Brief description of project 2  
 
 [Project 3 Title](link to project)
