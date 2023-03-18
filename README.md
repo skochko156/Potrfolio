@@ -1,5 +1,5 @@
 # Potrfolio
-My Data Analyst Portfolio
+
 Skochko Yelyzaveta's Data Analyst Portfolio
 
 Welcome to my data analyst portfolio! This portfolio showcases my skills and experience as a data analyst, including my work in Tableau and R-Studio. In this README file, you'll find an introduction to myself and my skills, as well as links to my projects and visualizations.
