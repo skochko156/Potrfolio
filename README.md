@@ -13,35 +13,15 @@ Tableau Projects
 
 In this section, you'll find links to my Tableau projects:
 
-[Netflix Movies & TV Shows]([link to project](https://public.tableau.com/app/profile/yelyzaveta4547/viz/Netflix_Analysis_16791747171680/Netflix))  
+[My tableau projects]([link to project](https://public.tableau.com/app/profile/yelyzaveta4547)  
+On this projects i learned how to work with parameters and calculated fields, and also gained knowledge on building joins and relationships in Tableau
 
-Brief description of project 1  
-
-[Games Sales]([link to project](https://public.tableau.com/app/profile/yelyzaveta4547/viz/Games_16791742307990/Game_Sales))
-Brief description of project 2  
-
-[Project 3 Title](link to project)
-Brief description of project 3
-R-Studio Projects
 
 In this section, you'll find links to my R-Studio projects:
 
-[Project 1 Title](link to project)
-Brief description of project 1
-[Project 2 Title](link to project)
-Brief description of project 2
-[Project 3 Title](link to project)
-Brief description of project 3
-Visualizations
+[My Kaggle profile](https://www.kaggle.com/yelyzavetaskochko)  
+Here you can see my R-notebooks and different case studies where i used tydiverse and ggplot2
 
-In this section, you'll find some examples of visualizations I've created using Tableau and R-Studio:
-
-[Visualization 1 Title](link to visualization)
-Brief description of visualization 1
-[Visualization 2 Title](link to visualization)
-Brief description of visualization 2
-[Visualization 3 Title](link to visualization)
-Brief description of visualization 3
 Contact Me
 
 If you're interested in working with me or learning more about my skills and experience, please feel free to contact me:
