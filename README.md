@@ -13,7 +13,7 @@ Tableau Projects
 
 In this section, you'll find links to my Tableau projects:
 
-[My tableau projects]([link to project](https://public.tableau.com/app/profile/yelyzaveta4547) )
+[My tableau projects]([link to project](https://public.tableau.com/app/profile/yelyzaveta4547))
 On this projects i learned how to work with parameters and calculated fields, and also gained knowledge on building joins and relationships in Tableau
 
 
