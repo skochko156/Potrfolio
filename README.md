@@ -17,11 +17,11 @@ In this section, you'll find links to my Tableau projects:
 On this projects i learned how to work with parameters and calculated fields, and also gained knowledge on building joins and relationships in Tableau
 
 
-In this section, you'll find links to my R-Studio projects:
-
-[My Kaggle profile](https://www.kaggle.com/yelyzavetaskochko)  
+In this section, you'll find my R-Studio projects:
+ 
 Here you can see my R-notebooks and different case studies where i used tydiverse and ggplot2  
-[A/B testing on Cats Adoption site](cats.md)
+-   [A/B testing on Cats Adoption site](cats/cats.md)  
+-   p
 
 Contact Me
 
