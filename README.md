@@ -21,7 +21,7 @@ In this section, you'll find links to my R-Studio projects:
 
 [My Kaggle profile](https://www.kaggle.com/yelyzavetaskochko)  
 Here you can see my R-notebooks and different case studies where i used tydiverse and ggplot2  
-[A/B testing on Cats Adoption site](https://f0400aa71f79454184207a1721c0754a.app.posit.cloud/?view=rmarkdown)
+[A/B testing on Cats Adoption site](cats.md)
 
 Contact Me
 
