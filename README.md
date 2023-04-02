@@ -21,7 +21,7 @@ In this section, you'll find my R-Studio projects:
  
 Here you can see my R-notebooks and different case studies where i used tydiverse and ggplot2  
 -   [A/B testing on Cats Adoption site](cats/cats.md)  
--   p
+-   [General A/B testing on Hotel Booking site data](booking/a_b_test.md)
 
 Contact Me
 
