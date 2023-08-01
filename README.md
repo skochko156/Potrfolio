@@ -6,7 +6,7 @@ Welcome to my data analyst portfolio! This portfolio showcases my skills and exp
 
 About Me
 
-I am a data analyst with 6 month commercial of experience in Data Analysis. I have a degree in Computer Science and have worked with a variety of data tools and technologies, including Spreadsheets, Tableau, R-Studio and BigQuery. My areas of expertise include data cleaning, data analysis, and data visualisation . Here you can see my [CV](Skochko_product.pdf)
+I am a data analyst with 11 month commercial of experience in Data Analysis. I have a degree in Computer Science and have worked with a variety of data tools and technologies, including Spreadsheets, Tableau, R-Studio and BigQuery. My areas of expertise include data cleaning, data analysis, and data visualisation . Here you can see my [CV](Skochko_product.pdf)
 
 
 Tableau Projects
